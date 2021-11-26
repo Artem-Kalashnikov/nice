@@ -1,3 +1,5 @@
 $('.single-item').slick({
-arrows: false
+arrows: false,
+  autoplay: true,
+  autoplaySpeed: 2000,
 });
