@@ -677,14 +677,8 @@ footer .form-control:focus {
   }
 
   .modal-content {
-    width: 100vw;
-  }
-
-  .modal-content input,
-  .modal-content label {
-    margin-left: 15px;
-    margin-right: 15px;
     width: 100%;
+    padding: 15px;
   }
 
   .modal-content .btn__yellow {
