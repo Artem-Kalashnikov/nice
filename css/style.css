@@ -677,7 +677,7 @@ footer .form-control:focus {
   }
 
   .modal-content {
-    width: 100%;
+    width: 100vw;
   }
 
   .modal-content input,
