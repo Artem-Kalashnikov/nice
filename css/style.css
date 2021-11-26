@@ -683,6 +683,7 @@ footer .form-control:focus {
 
   .modal-content .btn__yellow {
     width: 100%
+    margin-left: 0;
   }
   
   .modal input{
