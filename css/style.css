@@ -47,7 +47,7 @@ body {
 }
 
 .bg {
-  background-image: url(/img/header__bg.png);
+  background-image: url(../img/header__bg.png);
   height: 460px;
   position: relative;
 }
@@ -167,7 +167,7 @@ body {
   position: absolute;
   left: 52px;
   top: -85.5px;
-  background-image: url(/img/Target.png);
+  background-image: url(../img/Target.png);
 }
 
 .name__card {
@@ -201,7 +201,7 @@ body {
   position: absolute;
   left: 45px;
   top: -136.5px;
-  background-image: url(/img/Ethereum.png);
+  background-image: url(../img/Ethereum.png);
 }
 
 .card__card {
@@ -210,7 +210,7 @@ body {
   position: absolute;
   left: 47px;
   top: -97.5px;
-  background-image: url(/img/Credit.png);
+  background-image: url(../img/Credit.png);
 }
 
 .simple {
@@ -279,7 +279,7 @@ body {
   left: 49%;
   width: 540px;
   height: 532px;
-  background-image: url(/img/man3.png);
+  background-image: url(../img/man3.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -319,7 +319,7 @@ body {
   width: 39px;
   height: 39px;
   margin-right: 14px;
-  background-image: url(/img/whatsapp-icon.png);
+  background-image: url(../img/whatsapp-icon.png);
 }
 
 .whatsapp__link {
