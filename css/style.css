@@ -603,7 +603,7 @@ footer .form-control:focus {
   }
 
   .slider-block button html [type="button"] .slick-arrow {
-    display: none;
+    display: none !important;
   }
 
   .text__h2 {
