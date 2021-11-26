@@ -684,6 +684,10 @@ footer .form-control:focus {
   .modal-content .btn__yellow {
     margin-left: 115px;
   }
+  
+  .modal input{
+    width: 100%;
+  }
 
   .modal-dialog {
     width: 100%;
