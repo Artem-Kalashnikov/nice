@@ -682,7 +682,7 @@ footer .form-control:focus {
   }
 
   .modal-content .btn__yellow {
-    margin-left: 115px;
+    width: 100%
   }
   
   .modal input{
